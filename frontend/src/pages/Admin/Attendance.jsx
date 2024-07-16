@@ -55,13 +55,6 @@ const Attendance = () => {
 	  };
 	
   
-	
-	
-	
-	
-	
-	
-	
 	return (
 		<AttendanceContainer>
 		<Sidebar />
